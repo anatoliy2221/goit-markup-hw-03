@@ -49,8 +49,6 @@ img {
     flex-shrink: 0;
 }
 
-
-
 .header-navigation {
 display: flex;
 align-items: center;}
@@ -148,6 +146,9 @@ align-items: center;}
     line-height: 1.07;
     letter-spacing: 0.02em;
     max-width: 496px;
+    height: 120px;
+        margin-right: auto;
+        margin-left: auto;
 }
 
 .hero-btn {

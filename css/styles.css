@@ -35,7 +35,6 @@ img {
 
 .header {
     border-bottom: 1px solid #E7E9FC;
-    
 }
 .header-container {
     display: flex;
@@ -109,7 +108,7 @@ align-items: center;}
     justify-content: center;
         align-items: center;
         flex-shrink: 0;
-        
+        padding: 24px 0 24px 332px;
 }
 
 .header-сontacts-item {}

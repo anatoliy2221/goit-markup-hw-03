@@ -102,7 +102,7 @@ align-items: center;}
     gap: 40px;
 }
 
-.header-сontacts-list {
+.header-contacts-list {
     display: flex;
     gap: 40px;
     justify-content: center;
@@ -111,17 +111,17 @@ align-items: center;}
         padding: 24px 0 24px 332px;
 }
 
-.header-сontacts-item {}
+.header-contacts-item {}
 
-.header-сontacts-link {
+.header-contacts-link {
     color: #434455;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
 
-.header-сontacts-link:hover,
-.header-сontacts-link:focus {
+.header-contacts-link:hover,
+.header-contacts-link:focus {
     color: #404BBF;
 }
 
